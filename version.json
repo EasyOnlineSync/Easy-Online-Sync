@@ -1,0 +1,5 @@
+{
+  "version": "v0.2",
+  "download_url": "https://github.com/SEU_USUARIO/SEU_REPO/releases/download/v0.2/Setup_EasyOnlineSync_v0.2.exe",
+  "changelog": "- Motor de download paralelo\n- Suporte a YouTube sem ffmpeg externo\n- Interface redesenhada\n- Correcoes de bugs"
+}
